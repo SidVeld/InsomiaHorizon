@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-horizon-theme",
   "description": "A beautifully warm dual theme for Insomnia",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "plugin.js",
 
   "author": "SidVeld",
