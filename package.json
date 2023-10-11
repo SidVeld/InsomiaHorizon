@@ -15,14 +15,14 @@
     "warm theme"
   ],
 
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/SidVeld/insomnia-horizon-theme.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SidVeld/insomnia-horizon-theme.git"
+  },
 
-	"bugs": {
+  "bugs": {
     "url": "https://github.com/SidVeld/insomnia-horizon-theme/issues"
-	},
+  },
 
   "homepage": "https://github.com/SidVeld/insomnia-horizon-theme#readme",
 
