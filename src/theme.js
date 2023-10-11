@@ -24,7 +24,7 @@ const HORIZON_THEME = {
     },
 
     highlight: {
-      default: '#2E303E'
+      default: '#afafc2'
     },
 
     styles: {
