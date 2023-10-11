@@ -1,0 +1,46 @@
+{
+  "name": "insomnia-plugin-horizon-theme",
+  "description": "A beautifully warm dual theme for Insomnia",
+  "version": "0.0.1",
+  "main": "plugin.js",
+
+  "author": "SidVeld",
+  "license": "MIT",
+
+  "keywords": [
+    "horizon",
+    "insomnia",
+    "theme",
+    "insomnia-plugin",
+    "warm theme"
+  ],
+
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SidVeld/insomnia-horizon-theme.git"
+	},
+
+	"bugs": {
+    "url": "https://github.com/SidVeld/insomnia-horizon-theme/issues"
+	},
+
+  "homepage": "https://github.com/SidVeld/insomnia-horizon-theme#readme",
+
+  "insomnia": {
+    "name": "horizon-theme",
+    "displayName": "Horizon Theme",
+    "description": "A beautifully warm dual theme for Insomnia.",
+
+    "images": {
+      "icon": "assets/icon.svg",
+      "cover": "assets/preview.png"
+    },
+
+    "publisher": {
+      "name": "SidVeld",
+      "icon": "https://avatars.githubusercontent.com/u/22749671?v=4"
+    },
+
+    "unlisted": false
+  }
+}
